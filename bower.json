@@ -1,0 +1,28 @@
+{
+  "name": "single site template",
+  "authors": [
+    "Michel Sabatino <ms@auxe.net>"
+  ],
+  "description": "This is a template for a single site in html5/css3",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "html5",
+    "css3"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bc",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation-sites": "~6.1.0"
+  }
+}
