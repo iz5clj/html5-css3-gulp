@@ -11,6 +11,11 @@ regular paragraph.
 The quick brown fox jumped over the lazy
 dog's back.
 
+This is a line of code.
+```
+printf();
+```
+
 ### Header 3
 
 > This is a blockquote.
